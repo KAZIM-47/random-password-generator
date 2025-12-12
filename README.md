@@ -21,4 +21,5 @@ A simple, interactive password generator built with HTML, CSS, and JavaScript. U
 3. Check the boxes for the character types you want to include.
 4. Click **Generate Password** to create a new password.
 5. Click the copy icon to copy the password to clipboard.
+6. 
 
